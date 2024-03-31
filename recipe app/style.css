@@ -11,7 +11,7 @@
    
   }
   .container {
-   background-color: red;
+   background-color: blanchedalmond;
     font-size: 16px;
     padding: 3em 2.8em;
     width: 90vw;
@@ -106,14 +106,15 @@
     border-radius: 0.3em;
   }
   ul {
-    font-size: 1em;
     position: relative;
     display: grid;
     grid-template-columns: auto auto;
     padding: 1.2em 0 0 1.2em;
     color: #303040;
     text-transform: capitalize;
-    font-size: 11px;
+    font-size: 12px;
+    list-style: none;
+  
   }
   h3 {
     text-align: center;
@@ -158,5 +159,6 @@
     background-color: red;
    
   }
+
 
 
