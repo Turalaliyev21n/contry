@@ -58,6 +58,7 @@ function searchFlex(searchTerm) {
                 hideRecipe.addEventListener("click",()=>{
                     recibe.style.display = "none"
                 })
+               
             } else {
                 resultText.innerHTML = "Yemek tapilmadi";
             }
